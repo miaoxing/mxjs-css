@@ -1,0 +1,14 @@
+{
+  "name": "@mxjs/css",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "twinh",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "@styled-system/css": "^5.1.5"
+  }
+}
