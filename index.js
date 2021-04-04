@@ -1,5 +1,5 @@
 import styledCss from '@styled-system/css';
-import {css as emotionCss} from '@emotion/core';
+import {css as emotionCss} from '@emotion/react';
 
 export const sx = (style) => props => {
   return emotionCss(styledCss(style)(props));
