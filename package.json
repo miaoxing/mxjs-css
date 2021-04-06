@@ -9,7 +9,6 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@styled-system/css": "^5.1.5",
     "@emotion/react": "^11.1.5"
   }
 }
