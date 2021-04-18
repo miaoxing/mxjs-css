@@ -1,5 +1,7 @@
 import {css as emotionCss} from '@emotion/react';
 
+export {css} from '@chakra-ui/styled-system';
+
 // float
 export const floatLeft = () => emotionCss({float: 'left'});
 export const floatRight = () => emotionCss({float: 'right'});
