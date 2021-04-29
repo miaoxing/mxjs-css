@@ -11,5 +11,15 @@
   "dependencies": {
     "@chakra-ui/styled-system": "^1.10.0",
     "@emotion/react": "^11.1.5"
+  },
+  "devDependencies": {
+    "@miaoxing/dev": "^6.4.0"
+  },
+  "jest": {
+    "preset": "jest-preset-miaoxing"
+  },
+  "ciDependencies": {
+    "babel-preset-miaoxing": "miaoxing/babel-preset-miaoxing",
+    "@miaoxing/dev": "miaoxing/dev"
   }
 }
