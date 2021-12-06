@@ -1,5 +1,5 @@
 import {css} from '..';
-import {css as originalCss} from '@chakra-ui/styled-system';
+import {css as originalCss} from '@fower/core';
 
 describe('css', () => {
   test('css', () => {

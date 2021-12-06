@@ -9,8 +9,6 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@chakra-ui/styled-system": "^1.10.0",
-    "@emotion/react": "^11.1.5",
     "@fower/core": "^1.59.0"
   },
   "devDependencies": {
