@@ -1,6 +1,6 @@
 import {getConfig} from '@fower/core';
 
-export {css} from '@fower/core';
+export {css, createStyle} from '@fower/core';
 
 /**
  * @experimental 用于生成负数，考虑其他支持方式
