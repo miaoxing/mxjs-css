@@ -5,4 +5,8 @@ describe('css', () => {
   test('css', () => {
     expect(originalCss).toBe(css);
   });
+
+  test('preset', () => {
+    expect(css('mb4')).toMatchSnapshot();
+  });
 });
