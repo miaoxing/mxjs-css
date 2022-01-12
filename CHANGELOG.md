@@ -1,3 +1,31 @@
+# [0.3.0](https://github.com/miaoxing/mxjs-css/compare/v0.2.3...v0.3.0) (2022-01-12)
+
+
+### Code Refactoring
+
+* **css:** 更改 `@chakra-ui/styled-system` 为 `@fower/core`，移除默认样式 ([267261d](https://github.com/miaoxing/mxjs-css/commit/267261d6e943ce8198c9f30cc7fd2fd4ab917548))
+
+
+### Features
+
+* **css:** 引入 `@fower/preset-web` 作为默认配置 ([5d7d9fc](https://github.com/miaoxing/mxjs-css/commit/5d7d9fc90808d67ee7bb864c37d0fb0f1a92403a))
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.61` ([3f98741](https://github.com/miaoxing/mxjs-css/commit/3f987411a5405bccf9f437fd36372af3abbb304b))
+* **css:** 增加导出 `createStyle` 接口 ([d3f0e28](https://github.com/miaoxing/mxjs-css/commit/d3f0e2848ab3b844585103d7a9946550698b497b))
+* **css, experimental:** 增加 `spacing` 用于获取指定值的间距 ([3b15a67](https://github.com/miaoxing/mxjs-css/commit/3b15a67009b075a0d099ea5af47d2d7bd3c9333b))
+
+
+### BREAKING CHANGES
+
+* **css:** 更改 `@chakra-ui/styled-system` 为 `@fower/core`，移除默认样式
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 ## [0.2.3](https://github.com/miaoxing/mxjs-css/compare/v0.2.2...v0.2.3) (2021-10-28)
 
 
