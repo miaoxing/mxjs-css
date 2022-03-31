@@ -1,3 +1,10 @@
+## [0.3.2](https://github.com/miaoxing/mxjs-css/compare/v0.3.1...v0.3.2) (2022-03-31)
+
+
+### Features
+
+* 更新 `fower` 到 `^1.70.0` ([b80ac2c](https://github.com/miaoxing/mxjs-css/commit/b80ac2ca46c47bc8bd22d7392717bc50e4945ba3))
+
 ## [0.3.1](https://github.com/miaoxing/mxjs-css/compare/v0.3.0...v0.3.1) (2022-02-05)
 
 
