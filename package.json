@@ -9,8 +9,8 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@fower/core": "^1.70.0",
-    "@fower/preset-web": "^1.70.0"
+    "@fower/core": "~1.75.0",
+    "@fower/preset-web": "~1.75.0"
   },
   "devDependencies": {
     "react": "^17.0.2",
