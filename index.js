@@ -1,7 +1,5 @@
-import {getConfig, setConfig} from '@fower/core';
+import {getConfig, setConfig, css, createStyle} from '@fower/core';
 import presetWeb from '@fower/preset-web';
-
-export {css, createStyle} from '@fower/core';
 
 if (getConfig().plugins.length === 0) {
   // 加载默认配置，但是不覆盖已有的配置
@@ -13,4 +11,9 @@ if (getConfig().plugins.length === 0) {
  */
 export const spacing = (n) => {
   return getConfig().theme.spacings[n];
+};
+
+export {
+  css,
+  createStyle,
 };
